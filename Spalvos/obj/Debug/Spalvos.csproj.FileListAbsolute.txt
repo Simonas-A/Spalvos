@@ -1,0 +1,10 @@
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\bin\Debug\Spalvos.exe.config
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\bin\Debug\Spalvos.exe
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\bin\Debug\Spalvos.pdb
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.Form1.resources
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.Properties.Resources.resources
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.csproj.GenerateResource.Cache
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.csproj.CoreCompileInputs.cache
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.exe
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.pdb
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos\obj\Debug\Spalvos.csprojAssemblyReference.cache

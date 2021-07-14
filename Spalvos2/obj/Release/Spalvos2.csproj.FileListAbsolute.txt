@@ -1,0 +1,12 @@
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\bin\Release\Spalvos2.exe.config
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\bin\Release\Spalvos2.exe
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\bin\Release\Spalvos2.pdb
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.csprojAssemblyReference.cache
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.Form1.resources
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.Properties.Resources.resources
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.csproj.GenerateResource.cache
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.csproj.CoreCompileInputs.cache
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.exe
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.pdb
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.ColorDialog.resources
+C:\Users\Simuxxl\source\repos\Spalvos\Spalvos2\obj\Release\Spalvos2.ImageDialog.resources
